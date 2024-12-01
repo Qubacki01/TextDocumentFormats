@@ -53,23 +53,23 @@
             "Outerwear",
             "Accessories"
         ]
-    }
+    },
 	{
-		"name": "SuperDry"
-		"founded": 2003
-		"headquarters": "Cheltenham, England"
-		"employees": 3350
+		"name": "SuperDry",
+		"founded": 2003,
+		"headquarters": "Cheltenham, England",
+		"employees": 3350,
 		"products":	[
 			"Fashion Apparel",
 			"Footwear",	
 			"Accessories"
 		]
-	}	
-		{
-		"name": "Polo Ralph Lauren"
-		"founded": "1967"
-		"headquarters": "New York City, USA"
-		"employees": 23400
+	},	
+	{
+		"name": "Polo Ralph Lauren",
+		"founded": "1967",
+		"headquarters": "New York City, USA",
+		"employees": 23400,
 		"products":	[
 			"Fashion Apparel",
 			"Footwear",	

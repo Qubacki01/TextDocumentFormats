@@ -1,8 +1,8 @@
 {
-	"departure": "Krakow Glowny"
-	"departuretime": "21:12, 2024-12-01"
-	"arrival": "Gdansk Glowny"
-	"arrivaltime": "05:38, 2024-12-02"
-	"ticketprice": 89
+	"departure": "Krakow Glowny",
+	"departuretime": "21:12, 2024-12-01",
+	"arrival": "Gdansk Glowny",
+	"arrivaltime": "05:38, 2024-12-02",
+	"ticketprice": 89,
 	"isPendolino": false
 }
