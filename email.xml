@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+	<sender>kubaerazmus@email.com</sender>
+	<recipient>randomperson@email.com</recipient>
+		<subject>We would like to reach you about your cars extended warranty</subject>
+			<messagebody>
+				Hi,
+				we have an warranty offer. Please call: +48 123456789.
+				
+				Regards
+				Warranty Company
+			</messagebody>
+</email>
